@@ -1,0 +1,23 @@
+//Sets the value of Cell 1 to 64
+>++++ ++++[>++++ ++++<-]
+//Adds 13 to get 77, which is the Ascii value of Capital M
+>++++ ++++ ++++ +
+//Adds 96 to the next 6 cells, to allow easier manipulation
+<++++ ++++ ++++
+[>>++++ ++++
+>++++ ++++
+>++++ ++++
+>++++ ++++
+>++++ ++++
+>++++ ++++
+<<<<<<<-]
+//adds to each value in order, so as to get the individual letters
+>>++++ ++++ +
+>+++
+>++++ ++++
+>++++ +
+>+
+>++++ ++++ ++++
+<<<<<<
+//prints the string
+[.>]
